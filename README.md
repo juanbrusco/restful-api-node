@@ -19,3 +19,4 @@ Instrucciones
 > - Descargar el repositorio
 > - Abrir CMD y posicionarse en el directorio
 > - Ejecutar "npm install" y luego "npm start"
+> - Abrir en el navegador: http://localhost:3000/index/getAll
